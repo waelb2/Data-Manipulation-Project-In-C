@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1672621185 source:c:\users\al-athir computer\desktop\tp2\tp1 sfsd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	"biblioteque.h"
+
+1672620462 source:c:\users\al-athir computer\desktop\tp2\tp1 sfsd\biblioteque.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	"biblioteque.h"
+
+1672620258 c:\users\al-athir computer\desktop\tp2\tp1 sfsd\biblioteque.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1675869141 source:c:\users\wael\documents\2cp\sfsd\tp1 sfsd\biblioteque.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	"biblioteque.h"
+
+1672587858 c:\users\wael\documents\2cp\sfsd\tp1 sfsd\biblioteque.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1672588784 source:c:\users\wael\documents\2cp\sfsd\tp1 sfsd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	"biblioteque.h"
+
